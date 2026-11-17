@@ -1,0 +1,597 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.RenderPipelines.Core.Runtime.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.Burst.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.Burst.csproj",
+        "projectName": "Unity.Burst",
+        "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.Burst.csproj",
+        "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Temp\\obj\\Unity.Burst\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "framework": "netstandard2.1",
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEditor.UI.csproj": {
+                "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEditor.UI.csproj"
+              },
+              "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEngine.UI.csproj": {
+                "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "framework": "netstandard2.1",
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.Collections.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.Collections.csproj",
+        "projectName": "Unity.Collections",
+        "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.Collections.csproj",
+        "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Temp\\obj\\Unity.Collections\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "framework": "netstandard2.1",
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.Burst.csproj": {
+                "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.Burst.csproj"
+              },
+              "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.Mathematics.csproj": {
+                "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.Mathematics.csproj"
+              },
+              "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEditor.UI.csproj": {
+                "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEditor.UI.csproj"
+              },
+              "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEngine.UI.csproj": {
+                "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "framework": "netstandard2.1",
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.InputSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.InputSystem.csproj",
+        "projectName": "Unity.InputSystem",
+        "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.InputSystem.csproj",
+        "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Temp\\obj\\Unity.InputSystem\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "framework": "netstandard2.1",
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEditor.UI.csproj": {
+                "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEditor.UI.csproj"
+              },
+              "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEngine.UI.csproj": {
+                "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "framework": "netstandard2.1",
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.Mathematics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.Mathematics.csproj",
+        "projectName": "Unity.Mathematics",
+        "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.Mathematics.csproj",
+        "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Temp\\obj\\Unity.Mathematics\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "framework": "netstandard2.1",
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEditor.UI.csproj": {
+                "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEditor.UI.csproj"
+              },
+              "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEngine.UI.csproj": {
+                "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "framework": "netstandard2.1",
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.RenderPipelines.Core.Runtime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.RenderPipelines.Core.Runtime.csproj",
+        "projectName": "Unity.RenderPipelines.Core.Runtime",
+        "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.RenderPipelines.Core.Runtime.csproj",
+        "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Temp\\obj\\Unity.RenderPipelines.Core.Runtime\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "framework": "netstandard2.1",
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.Burst.csproj": {
+                "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.Burst.csproj"
+              },
+              "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.Collections.csproj": {
+                "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.Collections.csproj"
+              },
+              "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.InputSystem.csproj": {
+                "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.InputSystem.csproj"
+              },
+              "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.Mathematics.csproj": {
+                "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Unity.Mathematics.csproj"
+              },
+              "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEditor.UI.csproj": {
+                "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEditor.UI.csproj"
+              },
+              "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEngine.UI.csproj": {
+                "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "framework": "netstandard2.1",
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEditor.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEditor.TestRunner.csproj",
+        "projectName": "UnityEditor.TestRunner",
+        "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEditor.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Temp\\obj\\UnityEditor.TestRunner\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "framework": "netstandard2.1",
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "framework": "netstandard2.1",
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEditor.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEditor.UI.csproj",
+        "projectName": "UnityEditor.UI",
+        "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEditor.UI.csproj",
+        "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Temp\\obj\\UnityEditor.UI\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "framework": "netstandard2.1",
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEditor.TestRunner.csproj"
+              },
+              "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEngine.TestRunner.csproj"
+              },
+              "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEngine.UI.csproj": {
+                "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "framework": "netstandard2.1",
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEngine.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEngine.TestRunner.csproj",
+        "projectName": "UnityEngine.TestRunner",
+        "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEngine.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Temp\\obj\\UnityEngine.TestRunner\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "framework": "netstandard2.1",
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "framework": "netstandard2.1",
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEngine.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEngine.UI.csproj",
+        "projectName": "UnityEngine.UI",
+        "projectPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\UnityEngine.UI.csproj",
+        "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\johan\\OneDrive\\Dokumenter\\GitHub\\Rouge\\Rouge\\Temp\\obj\\UnityEngine.UI\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "framework": "netstandard2.1",
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "framework": "netstandard2.1",
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
